@@ -184,3 +184,8 @@ b{
 .textAlignEnd{
     text-align: end;
 }
+
+/* --margin-- */
+.autoMargin{
+    margin: auto;
+}
