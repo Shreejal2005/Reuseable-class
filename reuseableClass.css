@@ -1,0 +1,186 @@
+/* --flex contain-- */
+.flexContainer{
+    display: flex;
+}
+.alignItemCenter{
+    align-items: center;
+}
+.alignItemStart{
+    align-items: start;
+}
+.alignItemEnd{
+    align-items: end;
+}
+.j-SpaceBetween{
+    justify-content: space-between;
+}
+.j-SpaceAround{
+    justify-content: space-around;
+}
+.j-SpaceEvenly{
+    justify-content: space-evenly;
+}
+.flexWrap{
+    flex-wrap: wrap;
+}
+.flexWrapReverse{
+    flex-wrap: wrap-reverse;
+}
+
+/* --width-- */
+.maxWidth{
+    width: 100%;
+}
+.width95{
+    width: 95%;
+}
+.width90{
+    width: 90%;
+}
+.width85{
+    width: 85%;
+}
+.width80{
+    width: 80%;
+}
+.width75{
+    width: 75%;
+}
+.width70{
+    width: 70%;
+}
+.width65{
+    width: 65%;
+}
+.width60{
+    width: 60%;
+}
+.width55{
+    width: 55%;
+}
+.width50{
+    width: 50%;
+}
+.width45{
+    width: 45%;
+}
+.width30{
+    width: 30%;
+}
+.width25{
+    width: 25%;
+}
+.width20{
+    width: 20%;
+}
+.width15{
+    width: 15%;
+}
+.width10{
+    width: 10%;
+}
+.width5{
+    width: 5%;
+}
+
+/* --font-- */
+.f-10{
+    font-size: 10px;
+}
+.f-12{
+    font-size: 12px;
+}
+.f-14{
+    font-size: 14px;
+}
+.f-15{
+    font-size: 15px;
+}
+.f-16{
+    font-size: 16px;
+}
+.f-18{
+    font-size: 18px;
+}
+.f-20{
+    font-size: 20px;
+}
+.f-25{
+    font-size: 25px;
+}
+.f-30{
+    font-size: 30px;
+}
+.f-35{
+    font-size: 35px;
+}
+.f-40{
+    font-size: 40px;
+}
+.f-45{
+    font-size: 45px;
+}
+.f-50{
+    font-size: 50px;
+}
+.f-55{
+    font-size: 55px;
+}
+.f-60{
+    font-size: 60px;
+}
+.f-65{
+    font-size: 65px;
+}
+.f-70{
+    font-size: 70px;
+}
+.f-75{
+    font-size: 75px;
+}
+.f-80{
+    font-size: 80px;
+}
+
+/* --font weight-- */
+.fW-100{
+    font-weight: 100;
+}
+.fW-200{
+    font-weight: 200;
+}
+.fW-300{
+    font-weight: 300;
+}
+.fW-400{
+    font-weight: 400;
+}
+.fW-500{
+    font-weight: 500;
+}
+.fW-600{
+    font-weight: 600;
+}
+.fW-700{
+    font-weight: 700;
+}
+.fW-800{
+    font-weight: 800;
+}
+.fW-900{
+    font-weight: 900;
+}
+b{
+    font-family: 700;
+}
+
+/* --Align Text-- */
+.textAlignCenter{
+    text-align: center;
+}
+.textAlignStart{
+    text-align: start;
+}
+.textAlignEnd{
+    text-align: end;
+}
